@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StanislavErshov
+- 👀 I’m interested in theoretical physics, mathematics and everything else
+- 📫 My email address is ershov.stanislav@gmail.com
